@@ -69,3 +69,22 @@ def floresta_ilusoes(personagem):
     else:
         print("Opção inválida. Tente novamente.")
         floresta_ilusoes(personagem)
+
+def labirinto_sombrio(personagem):
+    print("\nVocê entra em um labirinto subterrâneo cheio de criaturas das trevas.")
+    print("Escolha como proceder:")
+    print("1 - Explorar cautelosamente e procurar pistas")
+    print("2 - Avançar rapidamente enfrentando os perigos")
+    escolha = input("Digite 1 ou 2: ")
+
+    if escolha == "1":
+        print("\nVocê encontra uma saída secreta e escapa com facilidade.")
+        time.sleep(2)
+        deserto_guardiao(personagem)
+    elif escolha == "2":
+        print("\nCriaturas das sombras atacam, mas você luta e escapa com ferimentos leves.")
+        time.sleep(2)
+        deserto_guardiao(personagem)
+    else:
+        print("Opção inválida. Tente novamente.")
+        labirinto_sombrio(personagem)
