@@ -88,3 +88,21 @@ def labirinto_sombrio(personagem):
     else:
         print("Opção inválida. Tente novamente.")
         labirinto_sombrio(personagem)
+
+def deserto_guardiao(personagem)
+    print("\nVocê chega ao templo onde a arma lendária está escondida.")
+    print("Mas um guardião místico protege a entrada.")
+    print("Escolha seu desafio: ")
+    print("1 - Teste de força")
+    print("2 - Teste de sabedoria")
+    escolha = input("Digite 1 ou 2: ")
+
+    if escolha == "1" and personagem == "Guerreiro":
+        print("\nSua força impressiona o guardião, e ele permite sua passagem.")
+    elif escolha == "2" and personagem == "Mago":
+        print("\nSeu conhecimento sobre magia convence o guardiao, e ele permite sua passagem.")
+    else:
+        print("\nO guardião desafia você e a batalha é difícil, mas você vence!")
+
+    time.sleep(3)
+    confronto_final(personagem)
