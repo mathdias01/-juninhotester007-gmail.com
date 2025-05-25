@@ -45,6 +45,12 @@ def aliança_secreta(personagem):
     time.sleep(2)
     labirinto_sombrio(personagem)
 
+ def forca_bruta(personagem):
+    print("\nVocê treina com guerreiros da resistência.")
+    print("Aprende táticas de combate e se prepara para enfrentar Malkor.")
+    time.sleep(2)
+    labirinto_sombrio(personagem)
+
 def floresta_ilusoes(personagem):
     print("\nVocê entra na Floresta das Ilusões. O caminho muda constantemente.")
     print("Escolha como navegar:")
