@@ -40,10 +40,10 @@ print('Opção invalida. Tente novamente')
 escolha_caminho(personagem)
 
 def aliança_secreta(personagem):
-    print("\nVocê treina com guerreiros da resistência.")
-    print("Aprende táticas de combate e se prepara para enfrentar Malkor.")
+    print("\nVocê encontra uma sociedade secreta de magos.")
+    print("Eles oferecem ensinar feitiços poderosos, mas primeiro você deve passar por um teste.")
     time.sleep(2)
-    labirinto_sombrio(personagem)
+    floresta_ilusoes(personagem)
 
  def forca_bruta(personagem):
     print("\nVocê treina com guerreiros da resistência.")
