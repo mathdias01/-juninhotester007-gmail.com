@@ -39,6 +39,6 @@ else :
 print('Opção invalida. Tente novamente')
 escolha_caminho(personagem)
 
-# Caminho da Aliança Secreta
+
     
 
