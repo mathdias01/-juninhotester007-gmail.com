@@ -27,3 +27,18 @@ def escolha_personagem():
     print(f"\nVocê escolheu ser um {personagem}.")
     time.sleep(1)
     escolha_caminho(personagem)
+print ('agora você deve decidir como buscar a arma lendária')
+print ('1 - A Aliança Secreta (Estudar magia proibida')
+print ('2 - A Força Bruta (Treinar com guerreiros experientes')
+ escolha = input('Digite 1 ou 2: ')
+ if escolha == '1':
+     aliança_secreta(personagem)
+ elif escolha == '2':
+     forca_brita(personagem)
+else :
+print('Opção invalida. Tente novamente')
+escolha_caminho(personagem)
+
+# Caminho da Aliança Secreta
+    
+
