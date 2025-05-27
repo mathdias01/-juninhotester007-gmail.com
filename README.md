@@ -21,27 +21,21 @@ O sistema do jogo é basicamente definido em escolhas, o qual o proprio sistema 
 -Participantes e suas contribuições
 
 Matheus Dias Moutinho - 202512563
-
 Escolha de personagem + readme
 
 Marcella Lima Nunes Azevedo - 202512541
-
 Introdução + guardião do deserto
 
 Victor Hugo Sanches Leite - 202512549
-
 Escolha do caminho
 
 Jean Carlos - 202512491
-
 Confronto final
 
 Josué Borbas de Aguiar - 202512521
-
 Escolhas dos caminhos
 
 Clayton de Jesus Cristo do nascimento - 202512500
-
 Labirinto Sombrio
 
 
