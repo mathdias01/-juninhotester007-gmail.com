@@ -33,6 +33,11 @@ Jean Carlos - 202512491
 Confronto final
 
 Josué Borbas de Aguiar - 202512521
+Escolhas dos caminhos
+
+Clayton de Jesus Cristo do nascimento - 202512500
+Labirinto Sombrio
+
 
 
 
