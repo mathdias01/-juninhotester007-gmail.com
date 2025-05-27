@@ -106,3 +106,22 @@ def deserto_guardiao(personagem)
 
     time.sleep(3)
     confronto_final(personagem)
+
+def confronto_final(personagem):
+    print("\nFinalmente, você chega à capital onde Malkor o espera.")
+    print("A batalha decisiva começa!")
+
+    if personagem == "Mago":
+        print("Você usa seu poder arcano e lança um feitiço devastador contra Malkor.")
+    elif personagem == "Guerreiro":
+        print("Você enfrenta Malkor com sua espada e desferre golpes precisos.")
+    elif personagem == "Arqueiro":
+        print("Com rapidez, dispara flechas mágicas e enfraquece Malkor.")
+
+    time.sleep(5)
+
+    print("\nO Reino de Veridia está salvo! Você se tornou um herói!")
+    print("Fim do jogo.")
+
+# Início do jogo
+introducao()
