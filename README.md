@@ -2,9 +2,11 @@
 Um reino chamado Veridia que sempre foi pacífico, mas agora sofre sobre ataques de Malkor o necromante. E você como um dos poucos sobreviventes, terá a missão de acabar de vez com Malkor e seu exército de mortos-vivos.
 
 -funcionalidades
+
 O jogo possui um sistema no qual você pode escolher entre classes para seu personagem(guerreiro, mago ou arqueiro), e o jogo é baseado em escolhas, o jogador que decide seu rumo, podendo ter consequências boas ou ruins.
 
 -Manual
+
 O sistema do jogo é basicamente definido em escolhas, o qual o proprio sistema do jogo irá dizer quais são as escolhas possíveis.
 
 -Screenshots + explicações
