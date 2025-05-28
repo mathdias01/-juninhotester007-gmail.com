@@ -26,6 +26,9 @@ def escolha_personagem():
     
     print(f"\nVocê escolheu ser um {personagem}.")
     time.sleep(1)
+    escolha_caminho(personagem)
+
+    
 def escolha_caminho(personagem):
     print ('agora você deve decidir como buscar a arma lendária')
     print ('1 - A Aliança Secreta (Estudar magia proibida')
