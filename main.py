@@ -126,7 +126,7 @@ def confronto_final(personagem):
     time.sleep(5)
 
     print("\nO Reino de Veridia está salvo! Você se tornou um herói!")
-    print("Fim do jogo.")
+    print("YOU WIN!")
 
 # Início do jogo
 introducao()
